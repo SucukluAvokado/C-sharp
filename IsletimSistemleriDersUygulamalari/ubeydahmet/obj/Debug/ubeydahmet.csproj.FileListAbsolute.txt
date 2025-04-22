@@ -1,0 +1,7 @@
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\bin\Debug\ubeydahmet.exe.config
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\bin\Debug\ubeydahmet.exe
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\bin\Debug\ubeydahmet.pdb
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\obj\Debug\ubeydahmet.csproj.AssemblyReference.cache
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\obj\Debug\ubeydahmet.csproj.CoreCompileInputs.cache
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\obj\Debug\ubeydahmet.exe
+C:\Users\neden6\source\repos\IsletimSistemleriDersUygulamalari\ubeydahmet\obj\Debug\ubeydahmet.pdb
