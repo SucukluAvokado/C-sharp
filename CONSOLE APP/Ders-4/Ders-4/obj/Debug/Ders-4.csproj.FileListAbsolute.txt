@@ -1,0 +1,7 @@
+C:\Users\yunus\source\repos\Ders-4\Ders-4\bin\Debug\Ders-4.exe.config
+C:\Users\yunus\source\repos\Ders-4\Ders-4\bin\Debug\Ders-4.exe
+C:\Users\yunus\source\repos\Ders-4\Ders-4\bin\Debug\Ders-4.pdb
+C:\Users\yunus\source\repos\Ders-4\Ders-4\obj\Debug\Ders-4.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\Ders-4\Ders-4\obj\Debug\Ders-4.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Ders-4\Ders-4\obj\Debug\Ders-4.exe
+C:\Users\yunus\source\repos\Ders-4\Ders-4\obj\Debug\Ders-4.pdb

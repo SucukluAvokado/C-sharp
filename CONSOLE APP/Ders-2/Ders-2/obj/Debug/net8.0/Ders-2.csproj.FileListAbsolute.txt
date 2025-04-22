@@ -1,0 +1,14 @@
+C:\Users\yunus\source\repos\Ders-2\Ders-2\bin\Debug\net8.0\Ders-2.exe
+C:\Users\yunus\source\repos\Ders-2\Ders-2\bin\Debug\net8.0\Ders-2.deps.json
+C:\Users\yunus\source\repos\Ders-2\Ders-2\bin\Debug\net8.0\Ders-2.runtimeconfig.json
+C:\Users\yunus\source\repos\Ders-2\Ders-2\bin\Debug\net8.0\Ders-2.dll
+C:\Users\yunus\source\repos\Ders-2\Ders-2\bin\Debug\net8.0\Ders-2.pdb
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.dll
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\refint\Ders-2.dll
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.pdb
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\Ders-2.genruntimeconfig.cache
+C:\Users\yunus\source\repos\Ders-2\Ders-2\obj\Debug\net8.0\ref\Ders-2.dll

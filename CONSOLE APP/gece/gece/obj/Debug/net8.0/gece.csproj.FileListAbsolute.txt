@@ -1,0 +1,14 @@
+C:\Users\yunus\source\repos\gece\gece\bin\Debug\net8.0\gece.exe
+C:\Users\yunus\source\repos\gece\gece\bin\Debug\net8.0\gece.deps.json
+C:\Users\yunus\source\repos\gece\gece\bin\Debug\net8.0\gece.runtimeconfig.json
+C:\Users\yunus\source\repos\gece\gece\bin\Debug\net8.0\gece.dll
+C:\Users\yunus\source\repos\gece\gece\bin\Debug\net8.0\gece.pdb
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.AssemblyInfo.cs
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.dll
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\refint\gece.dll
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.pdb
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\gece.genruntimeconfig.cache
+C:\Users\yunus\source\repos\gece\gece\obj\Debug\net8.0\ref\gece.dll

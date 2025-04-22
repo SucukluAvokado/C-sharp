@@ -1,0 +1,14 @@
+C:\Users\yunus\source\repos\DENEME\DENEME\bin\Debug\net6.0\DENEME.exe
+C:\Users\yunus\source\repos\DENEME\DENEME\bin\Debug\net6.0\DENEME.deps.json
+C:\Users\yunus\source\repos\DENEME\DENEME\bin\Debug\net6.0\DENEME.runtimeconfig.json
+C:\Users\yunus\source\repos\DENEME\DENEME\bin\Debug\net6.0\DENEME.dll
+C:\Users\yunus\source\repos\DENEME\DENEME\bin\Debug\net6.0\DENEME.pdb
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.AssemblyInfo.cs
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.dll
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\refint\DENEME.dll
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.pdb
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\DENEME.genruntimeconfig.cache
+C:\Users\yunus\source\repos\DENEME\DENEME\obj\Debug\net6.0\ref\DENEME.dll

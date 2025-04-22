@@ -1,0 +1,6 @@
+C:\Users\yunus\source\repos\Classlar\Classlar\obj\Debug\net6.0\Classlar.Properties.Resources.resources
+C:\Users\yunus\source\repos\Classlar\Classlar\obj\Debug\net6.0\Classlar.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\Classlar\Classlar\obj\Debug\net6.0\Classlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\Classlar\Classlar\obj\Debug\net6.0\Classlar.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\Classlar\Classlar\obj\Debug\net6.0\Classlar.AssemblyInfo.cs
+C:\Users\yunus\source\repos\Classlar\Classlar\obj\Debug\net6.0\Classlar.csproj.CoreCompileInputs.cache

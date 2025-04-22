@@ -1,0 +1,14 @@
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\bin\Debug\net6.0\Matematik_Terimleri(Math).exe
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\bin\Debug\net6.0\Matematik_Terimleri(Math).deps.json
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\bin\Debug\net6.0\Matematik_Terimleri(Math).runtimeconfig.json
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\bin\Debug\net6.0\Matematik_Terimleri(Math).dll
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\bin\Debug\net6.0\Matematik_Terimleri(Math).pdb
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).AssemblyInfoInputs.cache
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).AssemblyInfo.cs
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).dll
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\refint\Matematik_Terimleri(Math).dll
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).pdb
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\Matematik_Terimleri(Math).genruntimeconfig.cache
+C:\Users\yunus\Desktop\C#\CONSOL UYGULAMALARI\Matematik_Terimleri(Math)\Matematik_Terimleri(Math)\obj\Debug\net6.0\ref\Matematik_Terimleri(Math).dll

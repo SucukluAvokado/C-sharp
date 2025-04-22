@@ -1,0 +1,14 @@
+C:\Users\yunus\source\repos\asdasd\asdasd\bin\Debug\net8.0\asdasd.exe
+C:\Users\yunus\source\repos\asdasd\asdasd\bin\Debug\net8.0\asdasd.deps.json
+C:\Users\yunus\source\repos\asdasd\asdasd\bin\Debug\net8.0\asdasd.runtimeconfig.json
+C:\Users\yunus\source\repos\asdasd\asdasd\bin\Debug\net8.0\asdasd.dll
+C:\Users\yunus\source\repos\asdasd\asdasd\bin\Debug\net8.0\asdasd.pdb
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.AssemblyInfo.cs
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.dll
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\refint\asdasd.dll
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.pdb
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\asdasd.genruntimeconfig.cache
+C:\Users\yunus\source\repos\asdasd\asdasd\obj\Debug\net8.0\ref\asdasd.dll

@@ -1,0 +1,16 @@
+C:\Users\yunus\source\repos\deneme1\deneme1\bin\Debug\net6.0-windows\deneme1.exe
+C:\Users\yunus\source\repos\deneme1\deneme1\bin\Debug\net6.0-windows\deneme1.deps.json
+C:\Users\yunus\source\repos\deneme1\deneme1\bin\Debug\net6.0-windows\deneme1.runtimeconfig.json
+C:\Users\yunus\source\repos\deneme1\deneme1\bin\Debug\net6.0-windows\deneme1.dll
+C:\Users\yunus\source\repos\deneme1\deneme1\bin\Debug\net6.0-windows\deneme1.pdb
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.Form1.resources
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.csproj.GenerateResource.cache
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.AssemblyInfoInputs.cache
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.AssemblyInfo.cs
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.dll
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\refint\deneme1.dll
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.pdb
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\deneme1.genruntimeconfig.cache
+C:\Users\yunus\source\repos\deneme1\deneme1\obj\Debug\net6.0-windows\ref\deneme1.dll
